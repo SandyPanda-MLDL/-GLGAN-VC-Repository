@@ -49,7 +49,7 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
 ***Goolgle form link :***
 
 link: https://forms.gle/61xEu3DqpgDCHb3X7
-The google site link for conducting the opinions for MOS test and ABX test: 
+The google site link for conducting the opinions for MOS test and ABX test: https://sites.google.com/phd.nitdgp.ac.in/glgan-vc/home
 
 
 
