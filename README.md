@@ -14,8 +14,6 @@
 ******
 
 
-
-
 ******
 # GLGAN-VC-code 
 ***Experimental details  :***
