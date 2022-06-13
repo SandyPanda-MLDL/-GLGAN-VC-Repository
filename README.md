@@ -33,7 +33,7 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
 
 ******
 
-### The code implementation for various objective evaluation metrics that have been used in this work are provided in this repository. The following evaluation metrics are included in this work for the performance evaluation of the VC models. 
+### The code implementation (Jupyter Notebooks) for various objective evaluation metrics that have been used in this work are provided in this repository. The following evaluation metrics are included in this work for the performance evaluation of the VC models. 
 
 * MCD 
 * F0 RMSE
@@ -52,17 +52,4 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
 
 
 
- # Objective evaluation codes (MCD, MSD and F0 RMSE) 
- - ***Jupyter Notebooks of calculating the Mel Cepstral Distortion (MCD) , F0 root means squared error (RMSE) and Modulation Spectra Distance (MSD) are available in this repository***
-1. Code for Mel Cepstral Distortion (MCD).ipynb
-2. F0 RMSE calculation.ipynb
-3. MSD code implementation.ipynb
-
-
-# Global Variance (GV), MCEP Trajectories , Modulation Spectra (MS) per modulation frequency and Perceptual Evaluation of Speech Quality (PESQ) 
-
- - ***Jupyter Notebooks of calculating Global Variance (GV), MCEP Trajectories and Modulation Spectra (MS) per modulation frequency and Perceptual Evaluation of Speech Quality (PESQ) are available in this repository***
-1. GV code.ipynb
-2. MCEP_Trajectory.ipynb
-3. MODULATION_SPECTRUM_CODE .ipynb
-4. PESQ code.ipynb
+ 
