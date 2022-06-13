@@ -33,7 +33,7 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
 
 ******
 
-### The code implementation for various objective evaluation metrics that have been used in this work are provided in this repository. The following evaluation metrics are included in this work for the performance evaluation of the models. 
+### The code implementation for various objective evaluation metrics that have been used in this work are provided in this repository. The following evaluation metrics are included in this work for the performance evaluation of the VC models. 
 
 * MCD 
 * F0 RMSE
