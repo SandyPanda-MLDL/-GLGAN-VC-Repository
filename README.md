@@ -2,7 +2,7 @@
 
 ***Sandipan Dhar, Student  Member,  IEEE, Nanda Dulal Jana, Member, IEEE, and Swagatam Das, Senior Member, IEEE.***
 
-1. ***Some of the generated speech samples are presented at Google site ( link: https://sites.google.com/phd.nitdgp.ac.in/algan-vc-model/home )***
+1. ***Some of the generated speech samples are presented at Google site ( link: [https://sites.google.com/phd.nitdgp.ac.in/algan-vc-model/home ](https://sites.google.com/phd.nitdgp.ac.in/glgan-vc-model/home))***
 
 ***Links of the bench mark datasets used in this work are provided below***
 
