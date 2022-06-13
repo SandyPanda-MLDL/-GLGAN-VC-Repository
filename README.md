@@ -28,7 +28,7 @@ here for building the ***ALGAN-VC*** model are ***Tensorflow 1.15.0***. For audi
 and ***Pyworld 0.2.8*** version was used. For storing the feature
 information in ***.npz*** format, ***Numpy 1.15*** was used.
 
- - The ALGAN-VC code is developed based on the given repository code: https://github.com/leimao/Voice_Converter_CycleGAN
+ - The GLGAN-VC code is developed based on the given repository code: [[https://github.com/leimao/Voice_Converter_CycleGAN](https://github.com/hujinsen/StarGAN-Voice-Conversion)](https://github.com/hujinsen/StarGAN-Voice-Conversion)
  - The objective evaluation codes are based on the given repository: https://github.com/r9y9/nnmnkwii
 
 ******
