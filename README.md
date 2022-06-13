@@ -33,6 +33,25 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
 
 ******
 
+### The following files represent the various objecvtive and subjective evaluation metrics that can be used in Voice Conversion.
+
+* MCD 
+* F0 RMSE
+* log F0 RMSE
+* MSD
+* SNR
+* PESQ
+* GV
+* MCEP Trajectory
+* Modulation Spectrum
+* Mean MCEP 
+* MCEP Scatter Plot
+
+
+
+
+
+
  # Objective evaluation codes (MCD, MSD and F0 RMSE) 
  - ***Jupyter Notebooks of calculating the Mel Cepstral Distortion (MCD) , F0 root means squared error (RMSE) and Modulation Spectra Distance (MSD) are available in this repository***
 1. Code for Mel Cepstral Distortion (MCD).ipynb
