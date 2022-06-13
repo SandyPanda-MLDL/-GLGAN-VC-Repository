@@ -48,7 +48,7 @@ The code implementation (Jupyter Notebooks) for various objective evaluation met
 # The Google form link for collecting the opinions for MOS test and ABX test are available here
 ***Goolgle form link :***
 
-* link: https://forms.gle/61xEu3DqpgDCHb3X7
+* Google form link: https://forms.gle/61xEu3DqpgDCHb3X7
 * The google site link for conducting the opinions for MOS test and ABX test: https://sites.google.com/phd.nitdgp.ac.in/glgan-vc/home
 
 
