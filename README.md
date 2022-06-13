@@ -47,6 +47,11 @@ information in ***.npz*** format, ***Numpy 1.15*** was used.
 * Mean MCEP 
 * MCEP Scatter Plot
 
+# The Google form link for collecting the opinions for MOS test and ABX test are available here
+***Goolgle form link :***
+
+link: https://forms.gle/61xEu3DqpgDCHb3X7
+
 
 
 
