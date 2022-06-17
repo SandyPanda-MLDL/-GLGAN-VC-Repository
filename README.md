@@ -45,7 +45,7 @@ The code implementation (Jupyter Notebooks) for various objective evaluation met
 * Mean MCEP 
 * MCEP Scatter Plot
 
-# The Google form link for collecting the opinions for MOS test and ABX test are available here
+# The Google form link for collecting the opinions for MOS test are available here
 ***Goolgle form link :***
 
 * Google form link: https://forms.gle/61xEu3DqpgDCHb3X7
