@@ -11,6 +11,7 @@
 3. ***VCC 2020 speech dataset link: https://github.com/nii-yamagishilab/VCC2020-database***
 4. ***Emotional speech dataset link: https://github.com/HLTSingapore/Emotional-Speech-Data***
 5. ***Google drive link of the generated speech samples: https://github.com/HLTSingapore/Emotional-Speech-Data***
+6. *** Generated speech samples of PSR-StarGAN-VC are available at : https://xudongxiang.github.io/PSR-StarGAN-VC.html ***
 ******
 
 
