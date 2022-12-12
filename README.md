@@ -2,7 +2,7 @@
 
 ***Sandipan Dhar, Student  Member,  IEEE, Nanda Dulal Jana, Member, IEEE, and Swagatam Das, Senior Member, IEEE.***
 
-1. ***Some of the generated speech samples are presented at Google site ( link: [[https://sites.google.com/phd.nitdgp.ac.in/algan-vc-model/home ](https://sites.google.com/phd.nitdgp.ac.in/glgan-vc-model/home)](https://sites.google.com/phd.nitdgp.ac.in/glgan-vc-model/home))***
+1. ***Some of the generated speech samples are presented at Google site ( link: [[https://drive.google.com/drive/folders/1WwTmvbvnfrdihNcDMm72WEsau4hd5QXf?usp=sharing](https://drive.google.com/drive/folders/1WwTmvbvnfrdihNcDMm72WEsau4hd5QXf?usp=sharing)](https://drive.google.com/drive/folders/1WwTmvbvnfrdihNcDMm72WEsau4hd5QXf?usp=sharing))***
 
 ***Links of the bench mark datasets used in this work are provided below***
 
@@ -49,7 +49,7 @@ The code implementation (Jupyter Notebooks) for various objective evaluation met
 # The Google form link for collecting the opinions for MOS test is available here
 ***Goolgle form link :***
 
-* Google form link: https://forms.gle/61xEu3DqpgDCHb3X7
+* Google form link: https://drive.google.com/drive/folders/1WwTmvbvnfrdihNcDMm72WEsau4hd5QXf?usp=sharing
 * The google site link for conducting the opinions for MOS test : https://sites.google.com/phd.nitdgp.ac.in/glgan-vc/home
 
 
